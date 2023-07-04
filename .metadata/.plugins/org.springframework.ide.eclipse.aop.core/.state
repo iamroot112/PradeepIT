@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="31-OAuth-spring-security"/>
+<aop-project name="30-ControllerBased_Exception-Handling"/>
+<aop-project name="7-springboot-Autowiring"/>
+<aop-project name="6-spring-beans-scope-app"/>
+<aop-project name="14-WebMVC-FormApp-1"/>
+<aop-project name="25-SBMS-Service-Registry-EUREKA"/>
+<aop-project name="11-WebMVC-App1"/>
+<aop-project name="13-WebMVC-App3"/>
+<aop-project name="21-Rest-Consumes-App"/>
+<aop-project name="1-basicjava"/>
+<aop-project name="28-SBMS-Greet-app-feign-client"/>
+<aop-project name="27-SBMS-welcome-api"/>
+<aop-project name="8-Bean-LifeCycle-App"/>
+<aop-project name="9-springboot-webapp"/>
+<aop-project name="4-springboot-basic"/>
+<aop-project name="31-OAuth-spring-security-1"/>
+<aop-project name="12-WebMVC-App2"/>
+<aop-project name="26-SBMS-Admin-server"/>
+<aop-project name="3-Autowaired-app"/>
+<aop-project name="29-SBMS-ApplicationGateway"/>
+<aop-project name="5-springboot-componentscan"/>
+</aop-reference-model>

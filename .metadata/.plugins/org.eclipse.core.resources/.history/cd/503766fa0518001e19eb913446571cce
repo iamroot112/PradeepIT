@@ -1,0 +1,16 @@
+package in.pradeep;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.security.oauth2.client.EnableOAuth2Sso;
+import org.springframework.context.annotation.EnableMBeanExport;
+@EnableOAuth2Sso
+@SpringBootApplication
+public class Application {
+
+	@GetMapping("/")
+	public String message(Principal principal) {
+		return "Welcome" + principal.getName() + ". You are successfully logged in";
+	}
+
+}

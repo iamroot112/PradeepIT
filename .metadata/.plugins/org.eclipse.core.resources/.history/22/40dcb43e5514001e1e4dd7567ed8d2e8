@@ -1,0 +1,14 @@
+package in.pradeep.rest;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DemoRestController {
+
+	@GetMapping("/")
+	public String DoAction() {
+		String msg = "status in prograss";
+		return msg;
+	}
+}

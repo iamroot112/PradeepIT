@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;invokewelcome&apos; from expression &apos;welcomeapi.invokewelcome()&apos;&#x0D;&#x0A;- Original project: &apos;28-SBMS-Greet-app-feign-client&apos;&#x0D;&#x0A;- Variable name: &apos;invokewelcome&apos;&#x0D;&#x0A;- Destination method: &apos;in.pradeep.client.greetrest.Greetmsg()&apos;&#x0D;&#x0A;- Variable expression: &apos;welcomeapi.invokewelcome()&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;invokewelcome&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;in.pradeep.client{greetrest.java" name="invokewelcome" replace="true" selection="420 0" stamp="1686925874946" version="1.0"/>
+</session>
